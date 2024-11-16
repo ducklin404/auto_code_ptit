@@ -38,8 +38,9 @@ class CodePTIT:
         driver.get(task_url)
         driver.ele('xpath://input[@id="fileInput"]').input(file_path)
         submit_btn = driver.ele('xpath://button[@type="submit"]')
-        submit_btn.click()
-        sleep(10)
+        sleep(1)
+        submit_btn.click(by_js = True)
+        sleep(2)
     
 
 if __name__ == '__main__':
