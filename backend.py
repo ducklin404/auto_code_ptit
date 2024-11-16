@@ -30,6 +30,8 @@ class Backend:
             driver = getDriver()
         else:
             driver = self.driver
+        self.code_ptit.select_language(driver, type)
+        sleep(5)
         tasks = self.code_ptit.get_unsolved_tasks(self.code_ptit.get_num_of_page(driver), driver)
         for task in tasks:
             if limit <= 0:
