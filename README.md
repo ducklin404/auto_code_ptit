@@ -1,7 +1,7 @@
 # Code PTIT Submit - README
 
 ## Yêu cầu chuẩn bị
-Trước khi chạy ứng dụng, hãy chắc chắn rằng bạn đã cài đặt các thư viện cần thiết. Tất cả các thư viện được liệt kê trong tệp `requirements.txt`. Bạn có thể cài đặt chúng bằng lệnh sau:
+Trước khi chạy ứng dụng, hãy chắc chắn rằng bạn đã cài đặt các thư viện cần thiết. Bạn cũng cần cài đặt Google Chrome. Tất cả các thư viện được liệt kê trong tệp `requirements.txt`. Bạn có thể cài đặt chúng bằng lệnh sau:
 
 ```sh
 pip install -r requirements.txt
