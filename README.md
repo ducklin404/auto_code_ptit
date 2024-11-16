@@ -35,5 +35,4 @@ pip install -r requirements.txt
 
 Lưu ý rằng ứng dụng này chỉ phục vụ cho mục đích học tập và nghiên cứu. Không được sử dụng với mục đích khác, đặc biệt là vi phạm các quy định của trường hoặc máy chủ.
 
-Nếu bạn gặp phải bất kỳ vấn đề gì, vui lòng liên hệ để được hỗ trợ!
-
+Nếu bạn gặp phải bất kỳ vấn đề gì, vui lòng tạo một issue trên GitHub để được hỗ trợ!
